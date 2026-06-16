@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "FamilyHealth Mobile",
+    "slug": "familyhealth-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fastenhealth.familyhealth.mobile"
+    }
+  }
+}

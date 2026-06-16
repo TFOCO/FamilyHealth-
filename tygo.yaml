@@ -3,4 +3,7 @@ packages:
     output_path: "frontend/src/app/models/patient-access-brands/"
     exclude_files:
       - "catalog_query_options.go"
+  - path: "github.com/fastenhealth/fasten-onprem/backend/domain/model"
+    output_path: "mobile/types"
+
 
